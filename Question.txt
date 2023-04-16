@@ -1,0 +1,2 @@
+1.If the user choose "Cancel", they will get the answer is the same when they choose "No".
+2.
